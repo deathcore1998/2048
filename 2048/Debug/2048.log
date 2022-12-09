@@ -1,0 +1,5 @@
+﻿  2048.cpp
+F:\portfolio\2048\2048\2048.cpp(7,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Game2048.cpp
+  Создание кода...
+  2048.vcxproj -> F:\portfolio\2048\Debug\2048.exe
